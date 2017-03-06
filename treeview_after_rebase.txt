@@ -11,7 +11,7 @@ Rebase result
 * affdfc4 Initial commit
 
 ========================================================
-$/data/work/FirstTest/git help rebase
+$/data/work/FirstTest/git rebase master
 $/data/work/FirstTest/git tree
 
 * dbfe298 (HEAD -> 1stbranch) Update README.md
