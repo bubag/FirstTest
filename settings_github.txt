@@ -6,3 +6,10 @@ Branches -> Default branch, master
             Protected branches, not set
 Integration and services ?
 Deploy keys ?
+
+
+###Nu ska vi ändra settings till =>
+
+Branches - Protected Branch Master,
+
+last checkin before...
