@@ -1,0 +1,8 @@
+Hello. Settings for repo i Github.
+
+Options-> merge button, allow merge commits, allow squash merging, allow rebase merging.
+Collaborators -> none
+Branches -> Default branch, master
+            Protected branches, not set
+Integration and services ?
+Deploy keys ?
