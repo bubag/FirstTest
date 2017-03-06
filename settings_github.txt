@@ -8,8 +8,7 @@ Integration and services ?
 Deploy keys ?
 
 
-###Nu ska vi ändra settings till =>
+###Nu har vi ändrat settings till =>
 
 Branches - Protected Branch Master,
 
-last checkin before...
