@@ -1,0 +1,38 @@
+Rebase result
+
+========================================================
+ $/data/work/FirstTest/git tree
+
+* 0467bac (origin/master, origin/HEAD, master) We needed a .gitignore file. For skipping garbage.
+* af1beeb Added list for revisions by new users.
+* b6c79a9 Bla bla. Added a file with some text.
+| * 0dd18e1 (HEAD -> 1stbranch, origin/1stbranch) Update README.md
+|/  
+* affdfc4 Initial commit
+
+========================================================
+$/data/work/FirstTest/git help rebase
+$/data/work/FirstTest/git tree
+
+* dbfe298 (HEAD -> 1stbranch) Update README.md
+* 0467bac (origin/master, origin/HEAD, master) We needed a .gitignore file. For skipping garbage.
+* af1beeb Added list for revisions by new users.
+* b6c79a9 Bla bla. Added a file with some text.
+| * 0dd18e1 (origin/1stbranch) Update README.md
+|/  
+* affdfc4 Initial commit
+
+========================================================
+$/data/work/FirstTest/git pull
+$/data/work/FirstTest/git tree
+
+*   b38f586 (HEAD -> 1stbranch) Merge branch '1stbranch' of github.com:BuBaG/FirstTest into 1stbranch Just did a rebase of 1stbranch. From master.
+|\  
+| * 0dd18e1 (origin/1stbranch) Update README.md
+* | dbfe298 Update README.md
+* | 0467bac (origin/master, origin/HEAD, master) We needed a .gitignore file. For skipping garbage.
+* | af1beeb Added list for revisions by new users.
+* | b6c79a9 Bla bla. Added a file with some text.
+|/  
+* affdfc4 Initial commit
+

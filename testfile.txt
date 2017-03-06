@@ -2,6 +2,12 @@ Yay!
 testing github repos.
 
 Initial, just playing around.
+
+This is 1stbranch!
+Did a rebase of 1stbranch from master.
+Then pull.
+-Strange things happened to the git tree view.
+
 Who can see this?
 Who can commit?
 
