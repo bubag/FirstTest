@@ -11,4 +11,5 @@ Deploy keys ?
 ###Nu har vi ändrat settings till =>
 
 Branches - Protected Branch Master,
+Require pull request review, including administrator.
 
