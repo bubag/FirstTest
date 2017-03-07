@@ -1,0 +1,10 @@
+I tagged a commit (1936b65) (edit_v1)
+
+Don't know how to list the tags.
+Does not show in GitHub.
+Changed to the "detached HEAD" with:
+$git checkout edit_v1
+
+Now i branched from that tag to add
+this file. (some_taginfo) branch.
+
