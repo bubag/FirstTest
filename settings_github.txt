@@ -1,0 +1,17 @@
+Hello. Settings for repo i Github.
+
+Options-> merge button, allow merge commits, allow squash merging, allow rebase merging.
+Collaborators -> none
+Branches -> Default branch, master
+            Protected branches, not set
+Integration and services ?
+Deploy keys ?
+
+
+###Nu har vi ändrat settings till =>
+
+Branches - Protected Branch Master,
+Require pull request review, including administrator.
+
+Gick inte att pusha till master. Commit local fungerade.
+Gjorde en checkout -b edit_branch.
