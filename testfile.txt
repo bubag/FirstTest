@@ -13,6 +13,8 @@ Efter den här incheckningen så tänker jag tagga #1936b65
 Where is my Tag showing?
 Local git log but not in GitHub
 
+$git tag                #lists the tag. lightweight?
+$git tag -v edit_v1     #checks the tag. Verifies GPG sign.
 
 
 Anyone who sees this and can commit, enter name below:
