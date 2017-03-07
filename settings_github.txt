@@ -15,3 +15,8 @@ Require pull request review, including administrator.
 
 Gick inte att pusha till master. Commit local fungerade.
 Gjorde en checkout -b edit_branch.
+
+Jag kunde inte göra review och merge till master med de här inställningarna
+Fick ta bort require pull req review.
+Men fortfarande Protected master.
+
