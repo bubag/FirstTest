@@ -10,6 +10,10 @@ Do we got history?
 This is still a working branch. Some suff is missing from master.x
 Efter den här incheckningen så tänker jag tagga #1936b65
 
+Where is my Tag showing?
+Local git log but not in GitHub
+
+
 
 Anyone who sees this and can commit, enter name below:
 ----------------
