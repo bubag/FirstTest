@@ -3,10 +3,16 @@ testing github repos.
 
 Initial, just playing around.
 
-This is 1stbranch!
+This is 1stbranch! ###Not anymore, merged and deleted to master###
 Did a rebase of 1stbranch from master.
 Then pull.
 -Strange things happened to the git tree view.
+
+Just did a signed Tag in branch "edit_branch" on commit 1936b65
+This is master. (protected?)
+$ git tag -s -m "Tag along" edit_v1 1936b65
+
+
 
 Who can see this?
 Who can commit?
