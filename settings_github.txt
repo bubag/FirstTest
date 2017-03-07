@@ -11,4 +11,7 @@ Deploy keys ?
 ###Nu har vi ändrat settings till =>
 
 Branches - Protected Branch Master,
+Require pull request review, including administrator.
 
+Gick inte att pusha till master. Commit local fungerade.
+Gjorde en checkout -b edit_branch.
