@@ -7,6 +7,10 @@ Testing commit this and push.
 Check if branch edit_branch is pushed too?
 Right now local is 1 ahead.
 
+To push a new local branch to origin (without the branch) use command: 
+git push --set-upstream origin some_taginfo
+
+Result: The (edit_branch) did not push to origin.
 
 
 Anyone who sees this and can commit, enter name below:
