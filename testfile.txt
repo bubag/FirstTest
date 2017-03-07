@@ -24,10 +24,11 @@ Efter den här incheckningen så tänker jag tagga #1936b65
 
 Where is my Tag showing?
 Local git log but not in GitHub
+Must explicitly push tags to origin
 
-$git tag                #lists the tag. lightweight?
-$git tag -v edit_v1     #checks the tag. Verifies GPG sign.
-
+$git tag                     #lists the tag. lightweight?
+$git tag -v edit_v1          #checks the tag. Verifies GPG sign.
+$git push origin [tagname]   #Pushes tag to origin
 
 Anyone who sees this and can commit, enter name below:
 ----------------
