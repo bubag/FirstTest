@@ -1,6 +1,17 @@
 Yay!
 testing github repos.
 
+In the some_taginfo branch. Branched of the edit_v1 tag.
+
+Testing commit this and push.
+Check if branch edit_branch is pushed too?
+Right now local is 1 ahead.
+
+To push a new local branch to origin (without the branch) use command: 
+git push --set-upstream origin some_taginfo
+
+Result: The (edit_branch) did not push to origin.
+
 Initial, just playing around.
 
 This is 1stbranch! ###Not anymore, merged and deleted to master###
