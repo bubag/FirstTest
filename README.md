@@ -5,7 +5,7 @@ Nada. Just for testing
 Now we're on a protected master.  
 Must use pull request.  
 
-Dafault branch renamed from master to main on github.  
+Default branch renamed from master to main on github.  
 Locally cloned repo can be updated with following:  
 ```
 git branch -m master main          # move (rename) local master to main
