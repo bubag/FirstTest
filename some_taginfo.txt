@@ -11,3 +11,7 @@ this file. (some_taginfo) branch.
 [2022-10-14] Will do some tests with manually editing tags...
 Adding a textfile "spunk" in .git/refs/tags/ pointing to b38dba5226f811fb6cf123cea1a11f9635ff923b
 --Works fine
+Editing textfile. Moving tag to 660892bfe7fe4aa9e8c9eed443ecdefd7c1ce265
+--Works fine. No questions asked.
+Question about behaviour of Git-server when pushing an existing tag.
+
