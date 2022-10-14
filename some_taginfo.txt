@@ -8,3 +8,5 @@ $git checkout edit_v1
 Now i branched from that tag to add
 this file. (some_taginfo) branch.
 
+[2022-10-14] Will do some tests with manually editing tags...
+
