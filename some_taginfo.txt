@@ -9,4 +9,5 @@ Now i branched from that tag to add
 this file. (some_taginfo) branch.
 
 [2022-10-14] Will do some tests with manually editing tags...
-
+Adding a textfile "spunk" in .git/refs/tags/ pointing to b38dba5226f811fb6cf123cea1a11f9635ff923b
+--Works fine
