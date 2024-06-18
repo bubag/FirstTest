@@ -1,7 +1,5 @@
 Tagged a commit (1936b65) (edit_v1)
 
-Don't know how to list the tags.
-Does not show in GitHub.
 Changed to the "detached HEAD" with:
 $git checkout edit_v1
 
@@ -17,4 +15,8 @@ Keep attention to created 'backup' files when editing.
 Emacs creates a "spunk~" file. The '~' references the parent of... - which is illegal as a ref name.
 
 Question about behaviour of Git-server when pushing an existing tag. (especially if changed)
-
+```
+ ! [rejected]        spunk -> spunk (already exists)
+error: failed to push some refs to 'github.com:bubag/FirstTest.git'
+hint: Updates were rejected because the tag already exists in the remote.
+```
