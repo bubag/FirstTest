@@ -1,11 +1,11 @@
-I tagged a commit (1936b65) (edit_v1)
+Tagged a commit (1936b65) (edit_v1)
 
 Don't know how to list the tags.
 Does not show in GitHub.
 Changed to the "detached HEAD" with:
 $git checkout edit_v1
 
-Now i branched from that tag to add
+Now, branched from that tag to add
 this file. (some_taginfo) branch.
 
 [2022-10-14] Will do some tests with manually editing tags...
@@ -13,5 +13,8 @@ Adding a textfile "spunk" in .git/refs/tags/ pointing to b38dba5226f811fb6cf123c
 --Works fine
 Editing textfile. Moving tag to 660892bfe7fe4aa9e8c9eed443ecdefd7c1ce265
 --Works fine. No questions asked.
-Question about behaviour of Git-server when pushing an existing tag.
+Keep attention to created 'backup' files when editing.
+Emacs creates a "spunk~" file. The '~' references the parent of... - which is illegal as a ref name.
+
+Question about behaviour of Git-server when pushing an existing tag. (especially if changed)
 
